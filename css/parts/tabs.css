@@ -1,0 +1,55 @@
+.tabs__nav-wrap {
+	text-align: center;
+}
+
+.tabs__nav {
+	display: inline-block;
+	padding-bottom: 60px;
+	padding-top: 50px;
+}
+
+.tabs__col--narrow {
+	float: left;
+	width: 40%;
+	padding-right: 20px;
+}
+
+.tabs__col--wide {
+	float: right;
+	width: 60%;
+	padding-left: 20px;
+	}
+
+.tabs__image {
+	max-width: 100%;
+	opacity: 0;
+	
+}
+
+.tabs__image-wrap {
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
+.tabs__image--wrap--first {
+	margin-bottom: 40px;
+	height: 302px;
+	background-image: url("../../img/groupe-2.png")
+}
+
+.tabs__image--wrap--second {
+	height: 495px;
+	background-image: url("../../img/3-layers.png")
+}
+
+.tabs__image--wrap--third {
+	margin-bottom: 40px;
+	height: 438px;
+	background-image: url("../../img/44-layers.png")
+}
+
+.tabs__image--wrap--forth {
+	height: 359px;
+	background-image: url("../../img/40-layers.png")
+}
