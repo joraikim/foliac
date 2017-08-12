@@ -1,12 +1,21 @@
+/*---------------------------------------
+Settings
+----------------------------------------*/
 @import url(settings/normalize.css);
 @import url(settings/typography.css);
 @import url(settings/general.css);
-
-
-
+/*---------------------------------------
+Plugins
+----------------------------------------*/
+@import url(../plugins/Font-Awesome/css/font-awesome.css);
+/*---------------------------------------
+Parts
+----------------------------------------*/
 @import url(parts/buttons-list.css);
+@import url(parts/header.css);
+@import url(parts/tabs.css);
 @import url(parts/banner.css);
 @import url(parts/contact-form.css);
 @import url(parts/footer.css);
-@import url(parts/header.css);
-@import url(parts/tabs.css);
+
+
