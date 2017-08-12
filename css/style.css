@@ -2,6 +2,9 @@
 @import url(settings/typography.css);
 @import url(settings/general.css);
 
+
+
+@import url(parts/buttons-list.css);
 @import url(parts/banner.css);
 @import url(parts/contact-form.css);
 @import url(parts/footer.css);
