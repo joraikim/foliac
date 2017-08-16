@@ -30,6 +30,13 @@ body {
   line-height: 34px;
   text-decoration: none;
 }
+
+.btn--dark {
+  color: #3c4955;
+  border: 2px solid #3c4955;
+  text-transform: uppercase;
+}
+
 /*Hover block*/
 .info-hover {
   width: 100%;
