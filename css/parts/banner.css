@@ -1,0 +1,46 @@
+.worker-info {
+	width: 100%;
+}
+.worker-info__title {
+width: 315px;
+height: 59px;
+color: #ffffff;
+font-family: Lato;
+line-height: 32px;
+font-size: 30px;	
+font-weight: 700;
+font-size: 22px;
+font-weight: 400;
+}
+
+.worker-info__position {
+	color: #ffffff;
+	font-size: 22px;
+	line-height: 26px;
+	font-weight: 400;
+}
+
+.worker-info__details {
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 25px;
+	font-weight: 400;
+	
+}
+
+.best-worker__worker-info {
+	width: 50%;
+	float: right;
+}
+
+
+.services__worker-info {
+	width: 25%;
+	float: left;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 767px) {
+	.services__worker-info {
+		width: 100%;
+	}
+}

@@ -3,10 +3,25 @@
   padding-top: 30px;
   /*  background-color: #3c4955;*/
   background-size: cover;
-  background: url("../../img/computer.png") no-repeat center;
+  
   position: relative;
   z-index: 1;
+  background-image: url("../../img/computer.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  
 }
+
+.banner--header {
+  background-image: url("../../img/computer.png");
+}
+
+.banner--section {
+  background-image: url("../../img/men-computer.png");
+}
+
+
+
 .banner:before {
   content: '';
   display: block;
